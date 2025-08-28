@@ -41,7 +41,7 @@ Features:
 - Interactive portfolio showcasing projects
 - Contact form with email notifications
 - Responsive design for all devices  
-[GitHub Repo](https://github.com/yourusername/portfolio) | [Live Demo](https://your-demo-link.com)
+[GitHub Repo](https://github.com/AMIT222001/portfolio) | [Live Demo](https://your-demo-link.com)
 
 ### 3️⃣ Express API Boilerplate
 **Tech Stack:** `Node.js`, `Express`, `MongoDB`  
@@ -49,14 +49,14 @@ Features:
 - RESTful API with authentication and authorization
 - Error handling & request validation
 - Ready-to-use project structure for rapid development  
-[GitHub Repo](https://github.com/yourusername/express-api-boilerplate)
+[GitHub Repo](https://github.com/AMIT222001/express-api-boilerplate)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIT222001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIT222001&layout=compact&theme=radical)
 
 ---
 
