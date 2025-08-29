@@ -56,6 +56,18 @@ Features:
 ## 📊 GitHub Stats
 
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIT222001&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AMIT222001&theme=radical&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AMIT222001&theme=onedark&margin-w=10)
+![Amit's Graph](https://github-readme-activity-graph.vercel.app/graph?AMIT222001=AMIT222001&theme=react-dark&hide_border=true)
+![Followers](https://img.shields.io/github/followers/AMIT222001?style=social)
+![Stars](https://img.shields.io/github/stars/AMIT222001?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=AMIT222001&color=blueviolet)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIT222001&layout=compact&theme=radical)
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIT222001&layout=compact&theme=radical)
 
 ---
