@@ -28,28 +28,14 @@ I enjoy learning new technologies and contributing to open-source projects.
 ## 📂 Projects
 
 ### 1️⃣ MERN E-Commerce App
-**Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`, `Redis`  
+**Tech Stack:**  `Node.js`, `Express`, `MongoDB`, `Redis`  
 Features:
 - User authentication & authorization
 - Product search, cart, and checkout
 - Admin dashboard for managing products and orders  
 [GitHub Repo](https://github.com/yourusername/mern-ecommerce) | [Live Demo](https://your-demo-link.com)
 
-### 2️⃣ Portfolio Website
-**Tech Stack:** `React`, `TypeScript`  
-Features:
-- Interactive portfolio showcasing projects
-- Contact form with email notifications
-- Responsive design for all devices  
-[GitHub Repo](https://github.com/AMIT222001/portfolio) | [Live Demo](https://your-demo-link.com)
 
-### 3️⃣ Express API Boilerplate
-**Tech Stack:** `Node.js`, `Express`, `MongoDB`  
-Features:
-- RESTful API with authentication and authorization
-- Error handling & request validation
-- Ready-to-use project structure for rapid development  
-[GitHub Repo](https://github.com/AMIT222001/express-api-boilerplate)
 
 ---
 
