@@ -62,7 +62,7 @@ Features:
 ![Followers](https://img.shields.io/github/followers/AMIT222001?style=social)
 ![Stars](https://img.shields.io/github/stars/AMIT222001?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=AMIT222001&color=blueviolet)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIT222001&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/4d69296d-0fa3-41b8-8541-32d861a307c3.svg)](https://wakatime.com/@4d69296d-0fa3-41b8-8541-32d861a307c3)
 
 
 
