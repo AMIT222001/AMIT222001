@@ -26,13 +26,15 @@ I enjoy learning new technologies and contributing to open-source projects.
 
 ## 📂 Projects
 
-### 1️⃣ MERN E-Commerce App
-**Tech Stack:**  `Node.js`, `Express`, `MongoDB`, `Redis`  
+### 1️⃣ MultiChain Wallet  App
+**Tech Stack:**  `Node.js`, `Express`, `Ehterjs`,`Blockchain`  
 Features:
-- User authentication & authorization
-- Product search, cart, and checkout
-- Admin dashboard for managing products and orders  
-[GitHub Repo](https://github.com/yourusername/mern-ecommerce) | [Live Demo](https://your-demo-link.com)
+- validate wallet address
+- validate token address
+- fetch balance of tokens(evm based, tvm based, spl(solana)
+- fetch native balance  of wallets(evm based, tvm based, solana,bitcoin)
+ 
+[GitHub Repo](https://github.com/yourusername/mern-ecommerce) 
 
 
 
