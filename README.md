@@ -7,9 +7,9 @@ I enjoy learning new technologies and contributing to open-source projects.
 - 🌱 Currently learning **TypeScript, Redis, and advanced Node.js patterns**
 - 💻 Focused on **MERN stack** development
 - ⚡ I love optimizing backend performance and creating clean, reusable code
-- 📫 Reach me at: [Email](mailto:your.email@example.com)  
+- 📫 Reach me at: [Email](mailto:amit2729222001@gmail.com)  
 
----
+---https://www.google.com/search?hl=en&q=define+example
 
 ## 🛠 Tech Stack
 
@@ -34,7 +34,7 @@ Features:
 - fetch balance of tokens(evm based, tvm based, spl(solana)
 - fetch native balance  of wallets(evm based, tvm based, solana,bitcoin)
  
-[GitHub Repo](https://github.com/yourusername/mern-ecommerce) 
+[GitHub Repo](https://github.com/AMIT222001/ChainCheck.git) 
 
 
 
@@ -61,9 +61,9 @@ Features:
 
 ## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar-mca)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akumar2729222001@gmail.com)
 
 ---
 
