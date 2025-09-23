@@ -7,9 +7,9 @@ I enjoy learning new technologies and contributing to open-source projects.
 - 🌱 Currently learning **TypeScript, Redis, and advanced Node.js patterns**
 - 💻 Focused on **MERN stack** development
 - ⚡ I love optimizing backend performance and creating clean, reusable code
-- 📫 Reach me at: [Email](mailto:amit2729222001@gmail.com)  
+- 📫 Reach me at: [Email](mailto:akumar2729222001@gmail.com)  
 
----https://www.google.com/search?hl=en&q=define+example
+
 
 ## 🛠 Tech Stack
 
